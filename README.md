@@ -1,0 +1,1 @@
+This is a project to detect objects using a macbook camera.
